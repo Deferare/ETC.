@@ -1,2 +1,4 @@
 # ETC
-그냥 이거저거 유용한 거 저장해 두는 곳.
+
+- Apple silicon macOS tensorflow install official website.</br>
+https://developer.apple.com/metal/tensorflow-plugin/
