@@ -1,4 +1,8 @@
-# ETC
-
+## Development
 - Apple silicon macOS tensorflow install official website.</br>
 https://developer.apple.com/metal/tensorflow-plugin/
+
+
+## Education
+- Learning site for mobile development.</br>
+https://www.raywenderlich.com/whats-new
