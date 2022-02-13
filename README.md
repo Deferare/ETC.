@@ -1,9 +1,11 @@
-## Development
+## Developments
 - Apple silicon macOS tensorflow install official website.</br>
 https://developer.apple.com/metal/tensorflow-plugin/
 
+- App icon creation site by standard.</br>
+https://appiconmaker.co/Home/Index/2f3512e6-68de-4442-b7cd-bcb3719b4b71
 
-## Education
+## Educations
 - Learning site for mobile development.</br>
 https://www.raywenderlich.com/whats-new
 
