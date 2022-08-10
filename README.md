@@ -1,4 +1,4 @@
-## Developments
+## Development
 - Apple documentation.</br>
 https://developer.apple.com/documentation
 
